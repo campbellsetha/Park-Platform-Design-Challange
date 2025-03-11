@@ -9,7 +9,8 @@ Why the selected task was important for the platform.
 
 How your design reflects the feedback from your peers.
 
-  Our first iteration was a light on features for the mobile app and alot of the functionality was pushed to the website. During our rework, we moved some features, specifically "issue notification" and "favorites" to the mobile app. We did recieved alot of positive feedback about the simplicity and ease of use for with our app, specifically the use of Icons to minimize clutter. This feedback was used to drive our redesign for the prototype.
+  Our first iteration was a light on features for the mobile app and alot of the functionality was pushed to the website; because of this our app lacked a sense of flow. During our rework, we moved some features, specifically "issue notification" and "favorites" to the mobile app. We did recieved alot of positive feedback about the simplicity and ease of use for with our app, specifically the use of Icons to minimize clutter. This feedback was used to drive our redesign for the prototype.
   
 Key elements you focused on to enhance the user experience.
-  
+
+  The elements that we decided to implement make the user experince feel more intuative, a minimal design and use of icons to reduce clutter while still conveying necessary information. This would allow basic functional use by a wider groups of people (various ages, primary language, ect.). For a more personal user experince, a favorites option along with park-specific "details" page provides the reviews, hours of operations, and ability to report issues about a specific park.
