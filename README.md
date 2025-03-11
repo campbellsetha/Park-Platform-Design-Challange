@@ -2,6 +2,13 @@
 TCSS 496 - Park Platform Design Activity for "The Visionaries"
 Group Members: Alexander Pham, Alexander Petrik, Seth Campbell, Kobe Benavente, Benjamin Petrik, Mustafa Abdi
 
+The Purpose of the Park Platform App is to:
+
+  -Allows users to see all parks on one platform​
+  -Allows a collaborative user experience​
+  -Allows for users to filter specific parks to their liking​
+  -Allows viewers to see user ratings on parks
+  -Allows users to notify others of issues that may arise in a park
 
 Why the selected task was important for the platform.
 
