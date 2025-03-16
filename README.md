@@ -1,6 +1,6 @@
 # Park-Platform-Design-Challange
 TCSS 496 - Park Platform Design Activity for "The Visionaries"
-Group Members: Alexander Pham, Alexander Petrik, Seth Campbell, Kobe Benavente
+Group Members: Alexander Pham, Alexander Petrik, Seth Campbell, Kobe Benavente, Benjamin Petrik, Mustafa Abdi
 
 
 Why the selected task was important for the platform.
